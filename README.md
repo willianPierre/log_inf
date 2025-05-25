@@ -18,3 +18,7 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/willian_goncalves11_fatec_sp
 ![Captura de tela 2025-04-22 203437](https://github.com/user-attachments/assets/3b516125-6aef-4a1a-aae2-b36af5b9e27a)
 ![Captura de tela 2025-04-22 195850](https://github.com/user-attachments/assets/bd81f434-2881-4318-8e42-8a1f39a1e861)
 https://fatecspgov-my.sharepoint.com/:u:/r/personal/willian_goncalves11_fatec_sp_gov_br/Documents/info.pbix?csf=1&web=1&e=2EkpP3
+
+## Quarta atividade: cerveja colab , perguntas:  Os dois modelos são iguais? Não são iguais 
+Explique se houver diferenças e o motivo de elas existirem? a regressão linear esta diferente, pois o modelo do senhor Ivanildo Batista esta mais completo que meu modelo 
+Qual modelo você usaria?  eu usaria do senhor Ivanildo Batista Por quê? 
