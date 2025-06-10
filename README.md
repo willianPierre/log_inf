@@ -30,4 +30,10 @@ obs: os graficos por algum motivo não foram gerados mas os dados foram gerados 
 ![Captura de tela 2025-05-23 215423](https://github.com/user-attachments/assets/65fc5851-f970-499d-aeeb-1266e3389eb0)
 ![Captura de tela 2025-05-24 211902](https://github.com/user-attachments/assets/440eb069-6353-40a3-8dc8-6312d6b1636e)
 
+## atividade: Produtos A e B, Sorvete e Sandalia 
+![Captura de tela 2025-06-10 123535](https://github.com/user-attachments/assets/1f282cac-496c-41ba-9454-97c095a871e7)
+![Captura de tela 2025-06-10 125114](https://github.com/user-attachments/assets/08df55f3-c728-4c7a-ad16-1bc95b2de25e)
+
+
+
 
