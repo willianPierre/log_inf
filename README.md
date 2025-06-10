@@ -33,6 +33,7 @@ obs: os graficos por algum motivo não foram gerados mas os dados foram gerados 
 ## atividade: Produtos A e B, Sorvete e Sandalia 
 ![Captura de tela 2025-06-10 123535](https://github.com/user-attachments/assets/1f282cac-496c-41ba-9454-97c095a871e7)
 ![Captura de tela 2025-06-10 125114](https://github.com/user-attachments/assets/08df55f3-c728-4c7a-ad16-1bc95b2de25e)
+![Captura de tela 2025-06-10 125904](https://github.com/user-attachments/assets/f69e8159-42e2-46a6-9710-73e8054b1ea0)
 
 
 
