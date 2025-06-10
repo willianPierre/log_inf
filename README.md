@@ -35,6 +35,7 @@ obs: os graficos por algum motivo não foram gerados mas os dados foram gerados 
 ![Captura de tela 2025-06-10 125114](https://github.com/user-attachments/assets/08df55f3-c728-4c7a-ad16-1bc95b2de25e)
 ![Captura de tela 2025-06-10 125904](https://github.com/user-attachments/assets/f69e8159-42e2-46a6-9710-73e8054b1ea0)
 https://1drv.ms/x/c/a5a96c2dd5c72d70/ER3dRgEeMMRItdqUFYuPojABvJF-7qK5C59yIdZKRQS8Pw?e=3qHF8H&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/willian_goncalves11_fatec_sp_gov_br/Documents/Graf_K_panela_sorvetes_produtos%20(1).xlsx?d=w7dd2cc04218f483681f25499ae2bf08a&csf=1&web=1&e=z8p1vB&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMTAwLTAwMDAwMDAwMDAwMH0
 
 
 
