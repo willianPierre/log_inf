@@ -37,5 +37,6 @@ obs: os graficos por algum motivo não foram gerados mas os dados foram gerados 
 https://1drv.ms/x/c/a5a96c2dd5c72d70/ER3dRgEeMMRItdqUFYuPojABvJF-7qK5C59yIdZKRQS8Pw?e=3qHF8H&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/willian_goncalves11_fatec_sp_gov_br/Documents/Graf_K_panela_sorvetes_produtos%20(1).xlsx?d=w7dd2cc04218f483681f25499ae2bf08a&csf=1&web=1&e=z8p1vB&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMTAwLTAwMDAwMDAwMDAwMH0
 
+## ultima atividade Power Apps e Power Automate
 
 
